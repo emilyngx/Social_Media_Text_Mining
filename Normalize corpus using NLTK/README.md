@@ -63,4 +63,4 @@ normalized_corpus
 normalized_corpus = pd.DataFrame(normalized_corpus)
 normalized_corpus
 ```
-![alt text](https://github.com/emilyngx/SocialMedia_TextMining/blob/main/Normalize%20corpus%20using%20NLTK/images/3.png)
+![alt text](https://github.com/emilyngx/SocialMedia_TextMining/blob/main/Normalize%20corpus%20using%20NLTK/images/3a.png)
