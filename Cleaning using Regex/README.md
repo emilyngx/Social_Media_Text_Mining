@@ -11,7 +11,7 @@ X = ["This is a # scary wolf! ",
     "I      admire      you"]
 print(X)
 ```
-
+![alt text](https://github.com/emilyngx/SocialMedia_TextMining/blob/main/Cleaning%20using%20Regex/images/0.png)
 ## Iterate through the list and clean it
 ``` python
 i = 0
@@ -29,3 +29,4 @@ while i < len(X):
 for i in X:
     print(i)
 ```
+![alt text](https://github.com/emilyngx/SocialMedia_TextMining/blob/main/Cleaning%20using%20Regex/images/1.png)
