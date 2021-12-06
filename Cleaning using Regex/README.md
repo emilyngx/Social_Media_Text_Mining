@@ -12,7 +12,7 @@ X = ["This is a # scary wolf! ",
 print(X)
 ```
 ![alt text](https://github.com/emilyngx/SocialMedia_TextMining/blob/main/Cleaning%20using%20Regex/images/1.png)
-## Iterate through the list and clean it
+## Iterate through the list & Clean it
 ``` python
 i = 0
 while i < len(X):
